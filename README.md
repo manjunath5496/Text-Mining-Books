@@ -58,8 +58,18 @@
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(26).pdf" style="text-decoration:none;">Text Mining in Financial Industry: Implementing Text Mining Techniques on Bank Policies </a></b></li>  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(27).pdf" style="text-decoration:none;">Text Mining: Classification, Clustering, and Applications </a></b></li>   
+
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(28).pdf" style="text-decoration:none;">Unsupervised Algorithms for Cross-Lingual Text Analysis, Translation Mining, and Information Retrieval</a></b></li>
+  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(29).pdf" style="text-decoration:none;">Survey of Text Mining: Clustering, Classification, and Retrieval Scanned by Velocity</a></b></li>  
  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(30).pdf" style="text-decoration:none;">Text Mining for Biology and Biomedicine</a></b></li>  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(31).rar" style="text-decoration:none;">Text Mining with MATLAB</a></b></li>  
  
  
  
