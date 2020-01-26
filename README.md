@@ -25,8 +25,24 @@
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(13).pdf" style="text-decoration:none;">Text Mining for Qualitative Data Analysis in the Social Sciences </a></b></li>                              
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(14).pdf" style="text-decoration:none;"> Text Mining with Information Extraction</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(15).pdf" style="text-decoration:none;">Statistical Issues in Quantifying Text Mining Performance</a></b></li>
+  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(16).pdf" style="text-decoration:none;">A Text Mining Framework for Discovering Technological Intelligence to Support Science and TechnologyManagement </a></b></li>                              
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(17).pdf" style="text-decoration:none;">Text Mining Using Data Compression Models</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(18).pdf" style="text-decoration:none;">Graphical Models for Text Mining: Knowledge Extraction and Performance Estimation</a></b></li>
+  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(19).pdf" style="text-decoration:none;">Text Mining and Gene Expression Analysis Towards Combined Interpretation of High Throughput Data </a></b></li>   
+
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(20).pdf" style="text-decoration:none;">Text Mining and Internet Content Filtering</a></b></li>
+  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(21).pdf" style="text-decoration:none;">Scalable Text Mining with Sparse Generative Models </a></b></li>   
 
 
 
