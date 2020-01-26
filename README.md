@@ -44,6 +44,24 @@
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(21).pdf" style="text-decoration:none;">Scalable Text Mining with Sparse Generative Models </a></b></li>   
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(22).PDF" style="text-decoration:none;">Text Mining for Drug Discovery</a></b></li>
+  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(23).pdf" style="text-decoration:none;">A Tool for Text Mining in Molecular Biology Domains </a></b></li>   
 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(24).pdf" style="text-decoration:none;">Practical Text Mining With Per1</a></b></li>
+  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(25).pdf" style="text-decoration:none;">Text mining for cross-domain knowledge discovery </a></b></li>  
+ 
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/tmu(26).pdf" style="text-decoration:none;">Text Mining in Financial Industry: Implementing Text Mining Techniques on Bank Policies </a></b></li>  
+ 
+ 
+ 
+ 
+ 
+ 
 
 </ul>
